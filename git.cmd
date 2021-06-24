@@ -1,2 +1,1 @@
 calc.exe
-shell.exe
